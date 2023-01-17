@@ -1,238 +1,144 @@
 {
     "Tipsfrågor": [
         {
-            "title": "fråga 1",
-            "svar": [
+            "title": "Vad är total sveriges yta?",
+            "svar": 
                 {
                     "fel": [
-                        "fel 1",
-                        "fel 2",
-                        "fel 3",
-                        "fel 4"
+                        "147 429,16 km²",
+                        "707 415,26 km²",
+                        "347 435,16 km²"
                     ],
                     "rätt": [
-                        "rätt 1",
-                        "rätt 2",
-                        "rätt 3",
-                        "rätt 4"
+                        "447 425,16 km²"
                     ]
                 }
-            ]
         },
         {
-            "title": "fråga 1",
-            "svar": [
+            "title": "Hur många hjärtan har en bläckfisk?",
+            "svar": 
                 {
                     "fel": [
-                        "fel 1",
-                        "fel 2",
-                        "fel 3",
-                        "fel 4"
+                        "Fem",
+                        "Åtta",
+                        "Tolv"
                     ],
                     "rätt": [
-                        "rätt 1",
-                        "rätt 2",
-                        "rätt 3",
-                        "rätt 4"
+                        "Tre"
                     ]
                 }
-            ]
         },
         {
-            "title": "fråga 1",
-            "svar": [
+            "title": "Vad heter sveriges huvudstad?",
+            "svar": 
                 {
                     "fel": [
-                        "fel 1",
-                        "fel 2",
-                        "fel 3",
-                        "fel 4"
+                        "Växjö",
+                        "Geteborg",
+                        "Karlskrona"
                     ],
                     "rätt": [
-                        "rätt 1",
-                        "rätt 2",
-                        "rätt 3",
-                        "rätt 4"
+                        "Stokholm"
                     ]
                 }
-            ]
         },
         {
-            "title": "fråga 1",
-            "svar": [
+            "title": "Vilken märke som inte är urubisk?",
+            "svar": 
                 {
                     "fel": [
-                        "fel 1",
-                        "fel 2",
-                        "fel 3",
-                        "fel 4"
+                        "Volvo",
+                        "Mercedis",
+                        "BMW"
                     ],
                     "rätt": [
-                        "rätt 1",
-                        "rätt 2",
-                        "rätt 3",
-                        "rätt 4"
+                        "Dodge"
                     ]
                 }
-            ]
         },
         {
-            "title": "fråga 1",
-            "svar": [
+            "title": "Vad är reslutatet av följande (2*4-(20/8))",
+            "svar": 
                 {
                     "fel": [
-                        "fel 1",
-                        "fel 2",
-                        "fel 3",
-                        "fel 4"
+                        "5.4",
+                        "6.7",
+                        "12"
                     ],
                     "rätt": [
-                        "rätt 1",
-                        "rätt 2",
-                        "rätt 3",
-                        "rätt 4"
+                        "5.5"
                     ]
                 }
-            ]
         },
         {
-            "title": "fråga 1",
-            "svar": [
+            "title": "Hur många tidszoner finns i Ryssland?",
+            "svar": 
                 {
                     "fel": [
-                        "fel 1",
-                        "fel 2",
-                        "fel 3",
-                        "fel 4"
+                        "5",
+                        "15",
+                        "1"
                     ],
                     "rätt": [
-                        "rätt 1",
-                        "rätt 2",
-                        "rätt 3",
-                        "rätt 4"
+                        "11"
                     ]
                 }
-            ]
         },
         {
-            "title": "fråga 1",
-            "svar": [
+            "title": "Hur många tangenter har ett klassiskt piano?",
+            "svar": 
                 {
                     "fel": [
-                        "fel 1",
-                        "fel 2",
-                        "fel 3",
-                        "fel 4"
+                        "105",
+                        "95",
+                        "45"
                     ],
                     "rätt": [
-                        "rätt 1",
-                        "rätt 2",
-                        "rätt 3",
-                        "rätt 4"
+                        "88"
                     ]
                 }
-            ]
         },
         {
-            "title": "fråga 1",
-            "svar": [
+            "title": "Hur många dagar tar det för jorden att snurra runt solen?",
+            "svar": 
                 {
                     "fel": [
-                        "fel 1",
-                        "fel 2",
-                        "fel 3",
-                        "fel 4"
+                        "350",
+                        "240",
+                        "265"
                     ],
                     "rätt": [
-                        "rätt 1",
-                        "rätt 2",
-                        "rätt 3",
-                        "rätt 4"
+                        "365"
                     ]
                 }
-            ]
         },
         {
-            "title": "fråga 1",
-            "svar": [
+            "title": "När öppnade London sin tunnelbana?",
+            "svar": 
                 {
                     "fel": [
-                        "fel 1",
-                        "fel 2",
-                        "fel 3",
-                        "fel 4"
+                        "1860",
+                        "1900",
+                        "1853"
                     ],
                     "rätt": [
-                        "rätt 1",
-                        "rätt 2",
-                        "rätt 3",
-                        "rätt 4"
+                        "1863"
                     ]
                 }
-            ]
         },
         {
-            "title": "fråga 1",
-            "svar": [
+            "title": "Vilket land har flest öar i världen?",
+            "svar": 
                 {
                     "fel": [
-                        "fel 1",
-                        "fel 2",
-                        "fel 3",
-                        "fel 4"
+                        "Denmark, över 300 000 öar!",
+                        "USA, över 250 000 öar!",
+                        "Somalia, över 100 000 öar!"
                     ],
                     "rätt": [
-                        "rätt 1",
-                        "rätt 2",
-                        "rätt 3",
-                        "rätt 4"
+                        "Sverige, över 200 000 öar!"
                     ]
                 }
-            ]
         }
-    ],
-    "Uppfattningsförmåga": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-    ],
-    "Visuell förmåga och läsförståelse": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
     ]
 }
