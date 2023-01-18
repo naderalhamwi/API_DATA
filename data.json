@@ -1,7 +1,7 @@
 {
     "Tipsfrågor": [
         {
-            "title": "Vad är total sveriges yta?",
+            "title": "Vad är total Sveriges yta?",
             "svar": 
                 {
                     "fel": [
@@ -19,36 +19,36 @@
             "svar": 
                 {
                     "fel": [
-                        "Fem",
-                        "Åtta",
-                        "Tolv"
+                        "Fem sticken",
+                        "Åtta sticken",
+                        "Tolv sticken"
                     ],
                     "rätt": [
-                        "Tre"
+                        "Tre sticken"
                     ]
                 }
         },
         {
-            "title": "Vad heter sveriges huvudstad?",
+            "title": "Vad heter Sveriges huvudstad?",
             "svar": 
                 {
                     "fel": [
                         "Växjö",
-                        "Geteborg",
+                        "Göteborg",
                         "Karlskrona"
                     ],
                     "rätt": [
-                        "Stokholm"
+                        "Stockholm"
                     ]
                 }
         },
         {
-            "title": "Vilken märke som inte är urubisk?",
+            "title": "Vilken märke som inte är europeisk?",
             "svar": 
                 {
                     "fel": [
                         "Volvo",
-                        "Mercedis",
+                        "Mercedes",
                         "BMW"
                     ],
                     "rätt": [
@@ -75,12 +75,12 @@
             "svar": 
                 {
                     "fel": [
-                        "5",
-                        "15",
-                        "1"
+                        "5 tidszoner",
+                        "15 tidszoner",
+                        "1 tidszon"
                     ],
                     "rätt": [
-                        "11"
+                        "11 tidszoner"
                     ]
                 }
         },
@@ -89,12 +89,12 @@
             "svar": 
                 {
                     "fel": [
-                        "105",
-                        "95",
-                        "45"
+                        "105 sticken",
+                        "95 sticken",
+                        "45 sticken"
                     ],
                     "rätt": [
-                        "88"
+                        "88 sticken"
                     ]
                 }
         },
@@ -103,12 +103,12 @@
             "svar": 
                 {
                     "fel": [
-                        "350",
-                        "240",
-                        "265"
+                        "350 dagar",
+                        "240 dagar",
+                        "265 dagar"
                     ],
                     "rätt": [
-                        "365"
+                        "365 dagar"
                     ]
                 }
         },
@@ -117,12 +117,12 @@
             "svar": 
                 {
                     "fel": [
-                        "1860",
-                        "1900",
-                        "1853"
+                        "År 1860",
+                        "År 1900",
+                        "År 1853"
                     ],
                     "rätt": [
-                        "1863"
+                        "År 1863"
                     ]
                 }
         },
